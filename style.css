@@ -21,3 +21,31 @@
 
 
 }
+ #body{
+     background-color: lightgrey;
+     height: 200px;
+     margin: 20px;
+     
+ }
+     
+     
+  #con1{
+      background-color: gray;
+      height: 200px;
+      width: 25%;
+      color: white;
+      justify-content: center;
+      align-items: center;
+      display: flex;
+  }
+   
+
+ 
+
+
+      
+  }
+  
+
+ 
+
