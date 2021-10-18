@@ -1,4 +1,4 @@
-#head{
+.same{
      color: white;
      justify-content: center;
      background-color: lightgrey;
@@ -25,26 +25,44 @@
      background-color: lightgrey;
      height: 200px;
      margin: 20px;
+     display: flex;
+     flex-wrap: wrap;
+     
      
  }
      
      
   #con1{
-      background-color: gray;
+      background-color: lightgrey;
       height: 200px;
       width: 25%;
       color: white;
       justify-content: center;
       align-items: center;
       display: flex;
+      
   }
+   #footor{color: white;
+    justify-content: center;
+    background-color: lightgrey;
+    text-align: center;
+    height: 50px;
+    display: flex;
+    padding: 50px 0px 10px;
+    margin: 20px ;
+
+   }
    
+}
+    
+   }
+
 
  
 
 
       
-  }
+  
   
 
  
