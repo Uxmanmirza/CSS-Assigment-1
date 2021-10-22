@@ -23,25 +23,18 @@
 }
  #body{
      background-color: lightgrey;
-     height: 200px;
+     height: 210px;
      margin: 20px;
      display: flex;
      flex-wrap: wrap;
+     border: 1px solid black;
      
      
  }
      
      
-  #con1{
-      background-color: lightgrey;
-      height: 200px;
-      width: 25%;
-      color: white;
-      justify-content: center;
-      align-items: center;
-      display: flex;
-      
-  }
+   
+
    #footor{color: white;
     justify-content: center;
     background-color: lightgrey;
@@ -53,9 +46,21 @@
 
    }
    
-}
+ 
+
+ 
+ .new{
+    background-color: gray;
+    height: 200px;
+    width: 30%;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    margin: 6px 0px 0px 30px ;
     
-   }
+ }
 
 
  
